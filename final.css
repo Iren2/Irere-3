@@ -1,0 +1,71 @@
+h1{
+	font-size: 23px;
+	font color: inherit;
+font face: times new roman;
+}
+.op{
+float: right;
+width: 160px;
+box-shadow: 20px 10px 12px #0080ff;
+border-radius: 50%;
+  
+}
+.hope{
+	
+  background-color:white;
+  width: opx;
+  height: 380px;
+  margin: 0%;
+}
+.hu{
+	padding-left: 82px;
+}
+.header{
+	padding-top: 6px;
+}
+.skil{
+	padding-left: 690px;
+	padding-top: 12px;
+	font-size: 45px;
+}
+
+.kin{
+	padding-left: 460px;
+}
+.po{
+	padding-left: 500px;
+}
+.bio{
+	background-color: grey;
+	margin-top: 1px;
+	height: 350px;
+	
+}
+.tool{
+	padding-left: 460px
+
+}
+.he{
+	width: 1100px;
+	height:500px;
+	padding-left: 123px;
+}
+.jj{
+	margin: 0px 1020px 0px 45px;
+   float: left;
+}
+.skal{
+	padding-left: 1150px;
+	
+}
+.tex{
+	padding-left: 63px;
+}
+.lo{
+	width: 1340px;
+	height: 128px;
+	background-color:rgb(194, 194, 212);
+}
+.skel{
+	padding-left: 600px;
+}
